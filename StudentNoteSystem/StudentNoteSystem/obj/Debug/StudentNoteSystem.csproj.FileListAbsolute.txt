@@ -1,0 +1,13 @@
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\StudentNoteSystem\StudentNoteSystem\bin\Debug\StudentNoteSystem.exe.config
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\StudentNoteSystem\StudentNoteSystem\bin\Debug\StudentNoteSystem.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\StudentNoteSystem\StudentNoteSystem\bin\Debug\StudentNoteSystem.pdb
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\StudentNoteSystem\StudentNoteSystem\obj\Debug\StudentNoteSystem.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\StudentNoteSystem\StudentNoteSystem\obj\Debug\StudentNoteSystem.Properties.Resources.resources
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\StudentNoteSystem\StudentNoteSystem\obj\Debug\StudentNoteSystem.csproj.GenerateResource.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\StudentNoteSystem\StudentNoteSystem\obj\Debug\StudentNoteSystem.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\StudentNoteSystem\StudentNoteSystem\obj\Debug\StudentNoteSystem.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\StudentNoteSystem\StudentNoteSystem\obj\Debug\StudentNoteSystem.pdb
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\StudentNoteSystem\StudentNoteSystem\obj\Debug\StudentNoteSystem.Form1.resources
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\StudentNoteSystem\StudentNoteSystem\obj\Debug\StudentNoteSystem.forms.Ogrenciler.resources
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\StudentNoteSystem\StudentNoteSystem\obj\Debug\StudentNoteSystem.forms.Ogretmen.resources
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\StudentNoteSystem\StudentNoteSystem\obj\Debug\StudentNoteSystem.exe.config
