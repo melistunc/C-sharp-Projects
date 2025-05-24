@@ -1,0 +1,13 @@
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\AgendaSystem\AgendaSystem\bin\Debug\AgendaSystem.exe.config
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\AgendaSystem\AgendaSystem\bin\Debug\AgendaSystem.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\AgendaSystem\AgendaSystem\bin\Debug\AgendaSystem.pdb
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\AgendaSystem\AgendaSystem\obj\Debug\AgendaSystem.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\AgendaSystem\AgendaSystem\obj\Debug\AgendaSystem.Eklecs.resources
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\AgendaSystem\AgendaSystem\obj\Debug\AgendaSystem.Form1.resources
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\AgendaSystem\AgendaSystem\obj\Debug\AgendaSystem.Guncellecs.resources
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\AgendaSystem\AgendaSystem\obj\Debug\AgendaSystem.Properties.Resources.resources
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\AgendaSystem\AgendaSystem\obj\Debug\AgendaSystem.csproj.GenerateResource.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\AgendaSystem\AgendaSystem\obj\Debug\AgendaSystem.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\AgendaSystem\AgendaSystem\obj\Debug\AgendaSystem.exe
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\AgendaSystem\AgendaSystem\obj\Debug\AgendaSystem.pdb
+C:\Users\lenovo\OneDrive\Masaüstü\.nettt\AgendaSystem\AgendaSystem\obj\Debug\AgendaSystem.exe.config
